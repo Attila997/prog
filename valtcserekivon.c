@@ -1,7 +1,3 @@
-C=A+B;  
-A=C-A;    
-B=C-B;  
-
 #include<stdio.h>
 
 int main(void)
